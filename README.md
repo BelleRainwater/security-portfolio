@@ -5,8 +5,8 @@ Documented cloud security investigations, built in a live Azure tenant
 (Mad Hat Labs, a multi-user training environment).
 
 Target role: SOC Analyst / Security Analyst
-Currently: Career Change Professional looking for a remote role 
-Contact: 604113004@proton.me · [LinkedIn URL]
+<p>Currently: Career Change Professional looking for a remote role </p>
+<p>Contact: 604113004@proton.me · [LinkedIn URL]</p>
 
 ## Investigations
 | # | Title | Focus | Write-up |
