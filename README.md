@@ -1,4 +1,3 @@
-# security-portfolio
 # Security Portfolio: Belle Rainwater
 
 Documented cloud security investigations, built in a live Azure tenant
